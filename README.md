@@ -1,1 +1,1 @@
-# m710q-i3-6100
+# m710q-i3-6100 with OpenCore 0.67
